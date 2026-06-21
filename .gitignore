@@ -1,0 +1,15 @@
+# Rust 编译输出
+/target/
+
+# IDE 配置
+/.idea/
+/.vscode/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Cargo 锁文件（对于应用项目可以保留，库项目通常忽略）
+# Cargo.lock
